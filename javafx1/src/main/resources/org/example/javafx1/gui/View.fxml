@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="300.0" prefWidth="400.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button layoutX="158.0" layoutY="168.0" mnemonicParsing="false" text="Button" />
+      <Label layoutX="158.0" layoutY="97.0" prefHeight="30.0" prefWidth="62.0" text="Teste">
+         <padding>
+            <Insets left="10.0" />
+         </padding>
+      </Label>
+   </children>
+</AnchorPane>
